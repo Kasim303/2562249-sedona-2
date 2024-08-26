@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Максим Ермаков](https://up.htmlacademy.ru/htmlcss-individual/2/user/2562249).
-* Наставник: `Неизвестно`.
+* Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/angra).
 
 ---
 
