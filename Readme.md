@@ -2,6 +2,7 @@
 
 * Студент: [Максим Ермаков](https://up.htmlacademy.ru/htmlcss-individual/2/user/2562249).
 * Наставник: [Андрей Грачев](https://htmlacademy.ru/profile/angra).
+Сайт: [Седона](https://github.com/Kasim303/2562249-sedona-2)
 
 ---
 
